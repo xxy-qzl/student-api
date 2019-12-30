@@ -1,3 +1,52 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "滨崎步",
+      "password": "$2a$10$WnjQPHQRrCWFr2ghjnXhhuT4Yi5GbIr.J17PJsURq1a011ZcdkCkK",
+      "gender": "2",
+      "id": 1
+    },
+    {
+      "username": "权志龙",
+      "password": "$2a$10$09UvGSBnvGyCqJR0kUUN2uJsC6bioxu0bk2PnofHnBPfPXNig1btm",
+      "gender": "1",
+      "id": 2
+    },
+    {
+      "username": "五月天",
+      "password": "$2a$10$w1nXqKydGPIphZQsToKs0OiyNbEx4.GVXSpQj/mT/NlTmkShDUWy2",
+      "gender": "1",
+      "id": 3
+    },
+    {
+      "username": "高泰宇",
+      "password": "$2a$10$TDSDWt2QRIAU3Lm9ZHhIleb8MUPeQFxQWpzrXdav5H9QJvfcRnaSG",
+      "gender": "1",
+      "id": 4
+    },
+    {
+      "username": "钟嘉欣",
+      "password": "$2a$10$qPIPOiVCPsMmw7l84nOyGOWgiuHB0.0oRhSjwtgv3t7Dxva/bR3I.",
+      "gender": "1",
+      "id": 5
+    },
+    {
+      "username": "叶棠",
+      "password": "$2a$10$iR7yqKf9BkYadDTsp2aOEeTSX2HZRTY8.xQSyiD8oRrGue6xww2NS",
+      "gender": "1",
+      "id": 6
+    },
+    {
+      "username": "叶安",
+      "password": "$2a$10$63ECYWQqz5hh6mE5mEyrmuaTfg9YgO/ID/pjFvPkVy.O6msapQRXS",
+      "gender": "1",
+      "id": 7
+    },
+    {
+      "username": "叶炽",
+      "password": "$2a$10$N/C9Y4YNQ7IT96S/0mQH4eLtAGTRKnRQMIeIkXdNhYV74DtTemxI6",
+      "gender": "1",
+      "id": 8
+    }
+  ]
 }
