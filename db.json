@@ -47,6 +47,36 @@
       "password": "$2a$10$N/C9Y4YNQ7IT96S/0mQH4eLtAGTRKnRQMIeIkXdNhYV74DtTemxI6",
       "gender": "1",
       "id": 8
+    },
+    {
+      "username": "吴青峰",
+      "password": "$2a$10$qxftMztt8aMvmqx9WFzF4Oj08Q.stGOsm308/EqhkmmCao10KKwOW",
+      "gender": 1,
+      "id": 9
+    },
+    {
+      "username": "张大大",
+      "password": "$2a$10$XfzATHdbs0VhQGWLSTI2MOAdhk3UIkJ41TVXPfs4XwrHzjTyZXUD6",
+      "gender": 1,
+      "id": 10
+    },
+    {
+      "username": "刘诗诗",
+      "password": "$2a$10$wK.2iKaFPtHg1MJr//9Cf.WWfkWx4mVd52BokvkbAgvo7b8xchRF.",
+      "gender": 2,
+      "id": 11
+    },
+    {
+      "username": "太阳",
+      "password": "$2a$10$wii36DnWJhl3DuXayIK3AOEhbxlJD1An5R749qp1K0RJML4iZ2Co6",
+      "gender": 2,
+      "id": 12
+    },
+    {
+      "username": "圣美",
+      "password": "$2a$10$xXswj0D/W2jC38Qa0QKA7uhcd/SnGU1vlB2s4vNw6QHlIGaNU7OlC",
+      "gender": 2,
+      "id": 13
     }
   ]
 }

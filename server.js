@@ -9,6 +9,13 @@
   // req.body 的处理
   server.use(express.json())
   server.use(express.urlencoded({ extended: true }))
+
+  // 处理跨域问题
+  server.use( ( req, res, next ) => {
+    res.set ( 'Access-Control-Allow-Origin', '*' )
+    next()
+  })
+
   // 这里可以放自己做的一些借口，比如注册登录什么的
 
   // 注册接口
